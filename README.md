@@ -14,6 +14,8 @@ If you wait about 5 minutes or so, you should see orders being served - that is,
 
 The program will run forever until you stop it manually by pressing the stop button.
 
+An alternate way to run it is by using the ~run command within the sbt shell.
+
 ## Expected output
 
 As the program runs, you should see output similar to the following (each run will produce different randomized output):
